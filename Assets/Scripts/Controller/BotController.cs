@@ -32,6 +32,7 @@ namespace Controller
         }
 
         // hello, it's me!
+        // OlesyaWo, did you recognize my hand?
         
         public void Stop()
         {
